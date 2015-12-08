@@ -36,7 +36,9 @@ See http://stackoverflow.com/questions/32794863/http-spec-put-without-data-trans
 
 ## Make notes on Mails (IMAP)
 
-Use case: I see a mail from a friend in my inbox. But some information is missing. I call him on the phone. He tells me more details. The next step is that I need to do something. But not today, in about one week. I want to add a note to the mail ...
+Use case: I see a mail from a friend in my inbox. But some information is missing. I call him on the phone. He tells me more details. The next step is that I need to do something. But not today, in about one week. I want to add a note to the mail.
+
+I use thunderbird on PC and K9 on android. Notes should be visible on both devices.
 
 One of several solutions: Extend IMAP Spec
 
