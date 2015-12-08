@@ -12,7 +12,7 @@ If you get a mail from foo.bar@example.com there should be a way to receive the 
 
 I asked this at stackoverflow: http://stackoverflow.com/questions/34043435/rfc-for-retrieving-avatar-image-from-email-address
 
-Spec: I think DNS could be used. DNS should provide an URL to an image.
+One of several possible solutions: I think DNS could be used. DNS should provide an URL to an image.
 
 ## Mail Header for online shopping
 
@@ -33,3 +33,14 @@ Spec: https://en.wikipedia.org/wiki/Email#Message_header
 ## HTTP PUT without data transfer, since hash of data is known to server
 
 See http://stackoverflow.com/questions/32794863/http-spec-put-without-data-transfer-since-hash-of-data-is-known-to-server
+
+## Make notes on Mails (IMAP)
+
+Use case: I see a mail from a friend in my inbox. But some information is missing. I call him on the phone. He tells me more details. The next step is that I need to do something. But not today, in about one week. I want to add a note to the mail ...
+
+One of several solutions: Extend IMAP Spec
+
+Related: http://softwarerecs.stackexchange.com/questions/27065/create-and-store-notes-on-mails
+
+
+
