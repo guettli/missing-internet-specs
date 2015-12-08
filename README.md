@@ -3,6 +3,8 @@ Missing Internet Specifications
 
 Here is a list of ideas. Each idea is about a internet standard that I am missing.
 
+I love feedback: Please create a github issue if you see typos or if something is not clear. Don't be shy. Tell me what you think.
+
 ## Avatar: mail address to image
 Use case: Mail user agents like thunderbird or outlook should be able to display the image of a emai sender.
 
@@ -27,3 +29,7 @@ It would be very nice if there would be a standard for tagging the mails.
 Then users can create mail filters to move mails to sub-folders.
 
 Spec: https://en.wikipedia.org/wiki/Email#Message_header
+
+## HTTP PUT without data transfer, since hash of data is known to server
+
+See http://stackoverflow.com/questions/32794863/http-spec-put-without-data-transfer-since-hash-of-data-is-known-to-server
