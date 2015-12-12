@@ -5,6 +5,12 @@ Here is a list of ideas. Each idea is about a internet standard that I am missin
 
 I love feedback: Please create a github issue if you see typos or if something is not clear. Don't be shy. Tell me what you think.
 
+**Preface**
+
+What is a "standard" in this context? For me a standard is "rough consensus and working code".
+
+I don't need an official RFC. I just want several products to aggree on a way to exchange data.
+
 ## Avatar: mail address to image
 Use case: Mail user agents like thunderbird or outlook should be able to display the image of a emai sender.
 
@@ -13,6 +19,13 @@ If you get a mail from foo.bar@example.com there should be a way to receive the 
 I asked this at stackoverflow: http://stackoverflow.com/questions/34043435/rfc-for-retrieving-avatar-image-from-email-address
 
 One of several possible solutions: I think DNS could be used. DNS should provide an URL to an image.
+
+> Why not use gravatar.com?
+
+ * Gravatar is a service, not a standard.
+ * It is like a single point of failure. 
+ * You can't set up an own server
+
 
 ## Mail Header for online shopping
 
