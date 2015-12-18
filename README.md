@@ -3,13 +3,41 @@ Missing Internet Specifications
 
 Here is a list of ideas. Each idea is about a internet standard that I am missing.
 
-I love feedback: Please create a github issue if you see typos or if something is not clear. Don't be shy. Tell me what you think.
+> The Internet is not a network of computers. It is a network of people. That is its real strength. 
 
-**Preface**
+## Feedback
+
+I love feedback: Don't be shy. Tell me what you think.
+
+ * You are missing an internet standard which is not listed here? Which one? Just create a github issue
+ * Your think I am talking nonsense? Just leave a github issue. What needs improvement?
+ * You like an idea? Just leave a github issue. 
+ * You found a small typo? Just leave a github issue.
+ * You like the idea and would like to help? Just leave a github issue.
+ 
+## Preface
 
 What is a "standard" in this context? For me a standard is "rough consensus and working code".
 
 I don't need an official RFC. I just want several products to aggree on a way to exchange data.
+
+## Roadmap
+
+2016:
+  * Brainstorming
+
+2017:
+ * Concentrating on one or two items. 
+ * Talking to experts in this domain.
+ 
+2018: 
+ * If enough positive feedback was received: Implement the idea by patching an open source client and server
+ * Talk to other client/server vendors.
+
+2019:
+  * If enough positive feedback was received: Use the patched client and server.
+  * Write a RFC
+  * Talk to other client/server vendors (promote RFC).
 
 ## Avatar: mail address to image
 Use case: Mail user agents like thunderbird or outlook should be able to display the image of a emai sender.
