@@ -54,23 +54,6 @@ One of several possible solutions: I think DNS could be used. DNS should provide
  * It is like a single point of failure. 
  * You can't set up an own server
 
-
-## Mail Header for online shopping
-
-Use case: If you buy stuff via internet you get several mails. Some users (like me) want to move these mails to sub-folders.
-
-
-The most common types are these:
-
-  * "We received your order"
-  * "This is your invoice"
-  * "We are shipping your goods"
-
-It would be very nice if there would be a standard for tagging the mails.
-Then users can create mail filters to move mails to sub-folders.
-
-Spec: https://en.wikipedia.org/wiki/Email#Message_header
-
 ## HTTP PUT without data transfer, since hash of data is known to server
 
 See http://stackoverflow.com/questions/32794863/http-spec-put-without-data-transfer-since-hash-of-data-is-known-to-server
@@ -109,3 +92,20 @@ There is a RFC to manage sieve scripts, but it is a new client/server protocol w
 
 Why not handle this via **one** connection?
 
+
+
+## Mail Header for online shopping
+
+Use case: If you buy stuff via internet you get several mails. Some users (like me) want to move these mails to sub-folders.
+
+
+The most common types are these:
+
+  * "We received your order"
+  * "This is your invoice"
+  * "We are shipping your goods"
+
+It would be very nice if there would be a standard for tagging the mails.
+Then users can create mail filters to move mails to sub-folders.
+
+Spec: https://en.wikipedia.org/wiki/Email#Message_header
