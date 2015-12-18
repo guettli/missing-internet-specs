@@ -54,10 +54,6 @@ One of several possible solutions: I think DNS could be used. DNS should provide
  * It is like a single point of failure. 
  * You can't set up an own server
 
-## HTTP PUT without data transfer, since hash of data is known to server
-
-See http://stackoverflow.com/questions/32794863/http-spec-put-without-data-transfer-since-hash-of-data-is-known-to-server
-
 ## Make notes on Mails (IMAP)
 
 Use case: I see a mail from a friend in my inbox. But some information is missing. I call him on the phone. He tells me more details. The next step is that I need to do something. But not today, in about one week. I want to add a note to the mail.
@@ -91,6 +87,11 @@ But AFAIK there is not wide spread use of it, since there is no standard way to 
 There is a RFC to manage sieve scripts, but it is a new client/server protocol which needs authentication again. See https://tools.ietf.org/html/rfc5804
 
 Why not handle this via **one** connection?
+
+
+## HTTP PUT without data transfer, since hash of data is known to server
+
+See http://stackoverflow.com/questions/32794863/http-spec-put-without-data-transfer-since-hash-of-data-is-known-to-server
 
 
 
