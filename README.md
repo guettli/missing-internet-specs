@@ -64,6 +64,7 @@ One of several solutions: Extend IMAP Spec
 
 Related: http://softwarerecs.stackexchange.com/questions/27065/create-and-store-notes-on-mails
 
+My question in K9 (Android Mail App) forum: https://groups.google.com/forum/#!topic/k-9-mail/fvu3DRdwDic
 
 
 ## One connection to receive and send mails, not two
