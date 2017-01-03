@@ -64,6 +64,7 @@ My question in the mail-in-a-box forum: https://discourse.mailinabox.email/t/sno
 
 My question in the k9 (android IMAP client) forum: https://github.com/k9mail/k-9/issues/1842
 
+My naive implementation https://github.com/guettli/ndayslater (major drawback: Far too many imap sub-folders need to be greated)
 
 ## Make notes on Mails (IMAP)
 
