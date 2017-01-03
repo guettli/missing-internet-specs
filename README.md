@@ -54,6 +54,17 @@ One of several possible solutions: I think DNS could be used. DNS should provide
  * It is like a single point of failure. 
  * You can't set up an own server
 
+## 43-Folder for IMAP
+
+I like the tickler file system (aka 43-folder) to organize things. I would love to do this for mails, too. I want mails to able to move mails into the future. They should reappear N days later.
+
+More about "tickler file": https://en.wikipedia.org/wiki/Tickler_file
+
+My question in the mail-in-a-box forum: https://discourse.mailinabox.email/t/snooze-feature-like-google-inbox/1790
+
+My question in the k9 (android IMAP client) forum: https://github.com/k9mail/k-9/issues/1842
+
+
 ## Make notes on Mails (IMAP)
 
 Use case: I see a mail from a friend in my inbox. But some information is missing. I call him on the phone. He tells me more details. The next step is that I need to do something. But not today, in about one week. I want to add a note to the mail.
