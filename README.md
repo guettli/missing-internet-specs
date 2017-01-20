@@ -78,6 +78,7 @@ Related: http://softwarerecs.stackexchange.com/questions/27065/create-and-store-
 
 My question in K9 (Android Mail App) forum: https://groups.google.com/forum/#!topic/k-9-mail/fvu3DRdwDic
 
+StackO question "Storing additional data to mail in IMAP": http://stackoverflow.com/questions/41757915/storing-additional-data-to-mail-in-imap
 
 ## One connection to receive and send mails, not two
 
