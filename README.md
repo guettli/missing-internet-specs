@@ -21,24 +21,6 @@ What is a "standard" in this context? For me a standard is "rough consensus and 
 
 I don't need an official RFC. I just want several products to aggree on a way to exchange data.
 
-## Roadmap
-
-2016:
-  * Brainstorming
-
-2017:
- * Concentrating on one or two items. 
- * Talking to experts in this domain.
- 
-2018: 
- * If enough positive feedback was received: Implement the idea by patching an open source client and server
- * Talk to other client/server vendors.
-
-2019:
-  * If enough positive feedback was received: Use the patched client and server.
-  * Write a RFC
-  * Talk to other client/server vendors (promote RFC).
-
 ## Avatar: mail address to image
 Use case: Mail user agents like thunderbird or outlook should be able to display the image of a emai sender.
 
@@ -54,23 +36,12 @@ One of several possible solutions: I think DNS could be used. DNS should provide
  * It is like a single point of failure. 
  * You can't set up an own server
 
-## 43-Folder for IMAP
+## Store Metadata on Mails (IMAP)
 
-I like the tickler file system (aka 43-folder) to organize things. I would love to do this for mails, too. I want mails to able to move mails into the future. They should reappear N days later.
-
-More about "tickler file": https://en.wikipedia.org/wiki/Tickler_file
-
-My question in the mail-in-a-box forum: https://discourse.mailinabox.email/t/snooze-feature-like-google-inbox/1790
-
-My question in the k9 (android IMAP client) forum: https://github.com/k9mail/k-9/issues/1842
-
-My naive implementation https://github.com/guettli/ndayslater (major drawback: Far too many imap sub-folders need to be greated)
-
-## Make notes on Mails (IMAP)
 
 Use case: I see a mail from a friend in my inbox. But some information is missing. I call him on the phone. He tells me more details. The next step is that I need to do something. But not today, in about one week. I want to add a note to the mail.
 
-I use thunderbird on PC and K9 on android. Notes should be visible on both devices.
+Since I use several mail-user-agents (thunderbird on PC and K9 on android) not proprietary solution helps. Notes should be visible on all devices.
 
 One of several solutions: Extend IMAP Spec
 
@@ -107,6 +78,13 @@ Why not handle this via **one** connection?
 
 See http://stackoverflow.com/questions/32794863/http-spec-put-without-data-transfer-since-hash-of-data-is-known-to-server
 
+## Alternative zu CSV
+
+[CSV](https://en.wikipedia.org/wiki/Comma-separated_values) is very estalished. A lot of time gets wasted by a lot of people because CSV has several weaknesses.
+
+JSON/YAML/XML are not an alternative since CSV is a tabular format.
+
+Please tell me, if you know an alternative.
 
 
 ## Mail Header for online shopping
