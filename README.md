@@ -80,7 +80,7 @@ See http://stackoverflow.com/questions/32794863/http-spec-put-without-data-trans
 
 ## Alternative zu CSV
 
-[CSV](https://en.wikipedia.org/wiki/Comma-separated_values) is very estalished. A lot of time gets wasted by a lot of people because CSV has several weaknesses.
+[CSV](https://en.wikipedia.org/wiki/Comma-separated_values) is very estalished. A lot of time gets wasted by a lot of people every day because CSV has several weaknesses.
 
 JSON/YAML/XML are not an alternative since CSV is a tabular format.
 
