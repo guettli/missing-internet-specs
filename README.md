@@ -102,3 +102,10 @@ It would be very nice if there would be a standard for tagging the mails.
 Then users can create mail filters to move mails to sub-folders.
 
 Spec: https://en.wikipedia.org/wiki/Email#Message_header
+
+## SVG
+[Multiline Text](https://stackoverflow.com/questions/58750651/multiline-text-in-svg)
+
+## JavaScript / JSON
+
+[Let's fix JavaScript and JSON](https://github.com/guettli/lets-fix-js)
