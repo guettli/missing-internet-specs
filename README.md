@@ -36,7 +36,11 @@ One of several possible solutions: I think DNS could be used. DNS should provide
  * It is like a single point of failure. 
  * You can't set up an own server
 
-## Store Metadata on Mails (IMAP)
+## Mail: IMAP/SMTP
+
+The following mail issues might be solved by [JMAP](https://github.com/jmapio/jmap)
+
+### Store Metadata on Mails (IMAP)
 
 
 Use case: I see a mail from a friend in my inbox. But some information is missing. I call him on the phone. He tells me more details. The next step is that I need to do something. But not today, in about one week. I want to add a note to the mail.
@@ -51,7 +55,7 @@ My question in K9 (Android Mail App) forum: https://groups.google.com/forum/#!to
 
 StackO question "Storing additional data to mail in IMAP": http://stackoverflow.com/questions/41757915/storing-additional-data-to-mail-in-imap
 
-## One connection to receive and send mails, not two
+### One connection to receive and send mails, not two
 
 There are two protocols to handle email with a mail user agent (thunderbird, K9 on android, ...):
 
@@ -64,7 +68,7 @@ I guess mail server want "talk" SMTP in the future. OK, I don't want to change t
 
 
 
-## Edit Mail Filter Rules via IMAP
+### Edit Mail Filter Rules via IMAP
 Sieve is a programming language that can be used for email filtering. See https://en.wikipedia.org/wiki/Sieve_%28mail_filtering_language%29
 
 But AFAIK there is not wide spread use of it, since there is no standard way to update a sieve script.
