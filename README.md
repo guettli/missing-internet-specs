@@ -66,17 +66,22 @@ Why two protocols? It makes setting up a new mail user agent much more complicat
 
 I guess mail server want "talk" SMTP in the future. OK, I don't want to change that. But sending via IMAP would make a lot of things simpler.
 
+### Create hyperlink to particular mail
 
+UseCase: We have a shared Mail folder and a wiki in our company. A client sent several important documents via email. I want to create a link from the wiki to that particular mail. AFAIK there is not default and simple way. That's really sad.
 
-### Edit Mail Filter Rules via IMAP
+I am unsure with JMAP does help here.
+
+### Edit Mail Filter Rules
+
 Sieve is a programming language that can be used for email filtering. See https://en.wikipedia.org/wiki/Sieve_%28mail_filtering_language%29
 
 But AFAIK there is not wide spread use of it, since there is no standard way to update a sieve script.
 
 There is a RFC to manage sieve scripts, but it is a new client/server protocol which needs authentication again. See https://tools.ietf.org/html/rfc5804
 
-Why not handle this via **one** connection?
 
+Updating these rules via https would be great.
 
 ## HTTP PUT without data transfer, since hash of data is known to server
 
