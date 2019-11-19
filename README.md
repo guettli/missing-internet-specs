@@ -55,6 +55,11 @@ My question in K9 (Android Mail App) forum: https://groups.google.com/forum/#!to
 
 StackO question "Storing additional data to mail in IMAP": http://stackoverflow.com/questions/41757915/storing-additional-data-to-mail-in-imap
 
+### Recall a sent mail
+
+Even if you carefully read a mail twice before sending it. From time to time you make a mistake and you want
+to recall the sent message. All modern communication platforms have this feature.
+
 ### One connection to receive and send mails, not two
 
 There are two protocols to handle email with a mail user agent (thunderbird, K9 on android, ...):
