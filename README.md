@@ -1,9 +1,13 @@
-# missing-internet-specs
-Missing Internet Specifications
+# Missing Internet Specifications
+
 
 Here is a list of ideas. Each idea is about a internet standard that I am missing.
 
+For things which would require an agreement/specification see Missing Internet Specs.
+
 > The Internet is not a network of computers. It is a network of people. That is its real strength. 
+
+For a list ofhings which could be solved in a particular application see [Not Solved Yet](https://github.com/guettli/not-solved-yet)
 
 ## Feedback
 
