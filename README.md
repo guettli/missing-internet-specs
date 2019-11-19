@@ -25,7 +25,8 @@ What is a "standard" in this context? For me a standard is "rough consensus and 
 
 I don't need an official RFC. I just want several products to aggree on a way to exchange data.
 
-## Avatar: mail address to image
+## From mail address to profile (image, homepage, ...)
+
 Use case: Mail user agents like thunderbird or outlook should be able to display the image of a emai sender.
 
 If you get a mail from foo.bar@example.com there should be a way to receive the image and maybe more information.
@@ -39,6 +40,11 @@ One of several possible solutions: I think DNS could be used. DNS should provide
  * Gravatar is a service, not a standard.
  * It is like a single point of failure. 
  * You can't set up an own server
+
+## Creating group, easy like in WhatsApp
+
+Creating a new group for email communication should be as easy as in
+WhatsApp.
 
 ## Mail: IMAP/SMTP
 
