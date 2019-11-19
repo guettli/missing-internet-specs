@@ -35,7 +35,7 @@ I asked this at stackoverflow: http://stackoverflow.com/questions/34043435/rfc-f
 
 One of several possible solutions: I think DNS could be used. DNS should provide an URL to an image.
 
-A simple solution could look like this: If a user has the address foo@example.com, then his profile URL is `https://example.com/~foo`. This can be a html page created from user "foo". Other URLs should get defined. For example `https://example.com/~foo/profile.jpg` with a profile picture of the user.
+A simple solution could look like this: If a user has the address `foo@example.com`, then his profile URL is `https://example.com/~foo`. This can be a html page created from user "foo". Other URLs should get defined. For example `https://example.com/~foo/profile.jpg` with a profile picture of the user.
 
 ## Creating group, easy like in WhatsApp
 
