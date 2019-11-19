@@ -71,6 +71,8 @@ Why two protocols? It makes setting up a new mail user agent much more complicat
 
 I guess mail server want "talk" SMTP in the future. OK, I don't want to change that. But sending via IMAP would make a lot of things simpler.
 
+It would be nice if https would get used instead an own protocol.
+
 ### Create hyperlink to particular mail
 
 UseCase: We have a shared Mail folder and a wiki in our company. A client sent several important documents via email. I want to create a link from the wiki to that particular mail. AFAIK there is not default and simple way. That's really sad.
