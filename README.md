@@ -7,7 +7,7 @@ For things which would require an agreement/specification see Missing Internet S
 
 > The Internet is not a network of computers. It is a network of people. That is its real strength. 
 
-For a list ofhings which could be solved in a particular application see [Not Solved Yet](https://github.com/guettli/not-solved-yet)
+For a list of things which could be solved in a particular application see [Not Solved Yet](https://github.com/guettli/not-solved-yet)
 
 ## Feedback
 
