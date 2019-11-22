@@ -37,6 +37,8 @@ One of several possible solutions: I think DNS could be used. DNS should provide
 
 A simple solution could look like this: If a user has the address `foo@example.com`, then his profile URL is `https://example.com/~foo`. This can be a html page created from user "foo". Other URLs should get defined. For example `https://example.com/~foo/profile.jpg` with a profile picture of the user.
 
+"tilde strikes back": I you have used the internet in the years 1996-2000, then you have seen this URL pattern before :-)
+
 ## Creating groups, easy like in WhatsApp
 
 Creating a new group for email communication should be as easy as in
