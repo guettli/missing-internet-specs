@@ -9,6 +9,8 @@ For things which would require an agreement/specification see Missing Internet S
 
 For a list of things which could be solved in a particular application see [Not Solved Yet](https://github.com/guettli/not-solved-yet)
 
+***
+
 ## Feedback
 
 I love feedback: Don't be shy. Tell me what you think.
@@ -19,12 +21,14 @@ I love feedback: Don't be shy. Tell me what you think.
  * You found a small typo? Just leave a github issue.
  * You like the idea and would like to help? Just leave a github issue.
  
+***
 ## Preface
 
 What is a "standard" in this context? For me a standard is "rough consensus and working code".
 
 I don't need an official RFC. I just want several products to aggree on a way to exchange data.
 
+***
 ## From mail address to profile (image, homepage, ...)
 
 Use case: Mail user agents like thunderbird or outlook should be able to display the image of a emai sender.
@@ -63,6 +67,7 @@ My question in K9 (Android Mail App) forum: https://groups.google.com/forum/#!to
 
 StackO question "Storing additional data to mail in IMAP": http://stackoverflow.com/questions/41757915/storing-additional-data-to-mail-in-imap
 
+
 ### Recall a sent mail
 
 Even if you carefully read a mail twice before sending it. From time to time you make a mistake and you want
@@ -98,8 +103,6 @@ There is a RFC to manage sieve scripts, but it is a new client/server protocol w
 
 Updating these rules via https would be great.
 
-## HTTP PUT without data transfer, since hash of data is known to server
-
 ### Snooze Mails
 
 gmail and fastmail have a "snooze" feature. But up to now there is no spec which allows a vendor neutral implementation.
@@ -109,6 +112,13 @@ Dialog started: [JMAP extension: Snooze Mails](https://github.com/jmapio/jmap/is
 
 See http://stackoverflow.com/questions/32794863/http-spec-put-without-data-transfer-since-hash-of-data-is-known-to-server
 
+***
+## HTTP PUT without data transfer, since hash of data is known to server
+
+The tool rsync can sync directories quickly, since only changed files get transfered. It would be great to have rsync like protocol which works over http.
+
+
+***
 ## Alternative zu CSV
 
 [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) is very estalished. A lot of time gets wasted by a lot of people every day because CSV has several weaknesses.
@@ -117,7 +127,7 @@ JSON/YAML/XML are not an alternative since CSV is a tabular format.
 
 Please tell me, if you know an alternative.
 
-
+***
 ## Mail Header for online shopping
 
 Use case: If you buy stuff via internet you get several mails. Some users (like me) want to move these mails to sub-folders.
@@ -134,9 +144,11 @@ Then users can create mail filters to move mails to sub-folders.
 
 Spec: https://en.wikipedia.org/wiki/Email#Message_header
 
+***
 ## SVG
 [Multiline Text](https://stackoverflow.com/questions/58750651/multiline-text-in-svg)
 
+***
 ## JavaScript / JSON
 
 [Let's fix JavaScript and JSON](https://github.com/guettli/lets-fix-js)
