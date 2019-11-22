@@ -100,6 +100,13 @@ Updating these rules via https would be great.
 
 ## HTTP PUT without data transfer, since hash of data is known to server
 
+### Snooze Mails
+
+gmail and fastmail have a "snooze" feature. But up to now there is no spec which allows a vendor neutral implementation.
+
+Dialog started: [JMAP extension: Snooze Mails](https://github.com/jmapio/jmap/issues/301)
+
+
 See http://stackoverflow.com/questions/32794863/http-spec-put-without-data-transfer-since-hash-of-data-is-known-to-server
 
 ## Alternative zu CSV
