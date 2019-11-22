@@ -117,6 +117,7 @@ See http://stackoverflow.com/questions/32794863/http-spec-put-without-data-trans
 
 The tool rsync can sync directories quickly, since only changed files get transfered. It would be great to have rsync like protocol which works over http.
 
+Up to now DropBox, Nextcloud, Owncloud, Microsoft OneDrive, Google Drive all use their custom protocol.
 
 ***
 ## Alternative zu CSV
