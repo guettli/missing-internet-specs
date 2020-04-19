@@ -43,6 +43,8 @@ A simple solution could look like this: If a user has the address `foo@example.c
 
 "tilde strikes back": I you have used the internet in the years 1996-2000, then you have seen this URL pattern before :-)
 
+... or use [RFC8615 /.well-known/ URL](https://en.wikipedia.org/wiki/List_of_/.well-known/_services_offered_by_webservers)
+
 ## Creating groups, easy like in WhatsApp
 
 Creating a new group for email communication should be as easy as in
