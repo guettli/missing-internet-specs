@@ -155,3 +155,10 @@ Spec: https://en.wikipedia.org/wiki/Email#Message_header
 ## JavaScript / JSON
 
 [Let's fix JavaScript and JSON](https://github.com/guettli/lets-fix-js)
+
+# No Unicode Symbol for "Share Icon"
+
+There is not Unicode Symbol for the "Share Icon" yet.
+
+https://stackoverflow.com/questions/23358594/is-there-a-unicode-character-for-the-share-icon
+
