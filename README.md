@@ -28,7 +28,15 @@ What is a "standard" in this context? For me a standard is "rough consensus and 
 
 I don't need an official RFC. I just want several products to aggree on a way to exchange data.
 
-***
+
+## HTML: Copy+Paste (including images)
+
+You can copy+paste html (including images) from a public page.
+
+But you images will be missing if the page requires you to login.
+
+I can't believe that this is not fixed in the year 2022.
+
 ## From mail address to profile (image, homepage, ...)
 
 Use case: Mail user agents like thunderbird or outlook should be able to display the image of a emai sender.
