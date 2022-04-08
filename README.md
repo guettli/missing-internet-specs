@@ -39,6 +39,7 @@ I can't believe that this is not fixed in the year 2022.
 
 Related: https://webapps.stackexchange.com/questions/163964/how-to-copy-and-paste-html-including-images-to-google-docs
 
+There is a work-around: First save the page locally (select "whole page" or something like this). Then open the local html file. There you can select and copy+paste the images. I hope this work-around will be not needed in some years.
 
 ## From mail address to profile (image, homepage, ...)
 
