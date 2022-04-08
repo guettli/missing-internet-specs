@@ -37,6 +37,9 @@ But you images will be missing if the page requires you to login.
 
 I can't believe that this is not fixed in the year 2022.
 
+Related: https://webapps.stackexchange.com/questions/163964/how-to-copy-and-paste-html-including-images-to-google-docs
+
+
 ## From mail address to profile (image, homepage, ...)
 
 Use case: Mail user agents like thunderbird or outlook should be able to display the image of a emai sender.
