@@ -129,7 +129,24 @@ See http://stackoverflow.com/questions/32794863/http-spec-put-without-data-trans
 ***
 
 ## HTTP client-side creation of ETag
-t
+
+Imagine I downloaded foo.tgz from `http://example.com/foo.tgz` some days ago. Now I want to know: Do I need to fetch a new
+version?
+
+AFAIK there is no way that a http client can validate that. Except the client stored the etag somewhere.
+
+It would save a lot of bandwith if there was a way to solve the question.
+
+Then a http client could send to the browser something like this:
+
+> I data with hash-sum ... from URL http://example.com/foo.tgz
+> Is this still the current version?
+
+The http server could reply with "yes, that's the current version" or "no, I have hash-sum ...".
+
+Of course client and server need to agree on a hashing algorithm. But this is not a huge problem.
+
+
 ## HTTP PUT without data transfer, since hash of data is known to server
 
 The tool rsync can sync directories quickly, since only changed files get transfered. It would be great to have rsync like protocol which works over http.
