@@ -127,6 +127,9 @@ Dialog started: [JMAP extension: Snooze Mails](https://github.com/jmapio/jmap/is
 See http://stackoverflow.com/questions/32794863/http-spec-put-without-data-transfer-since-hash-of-data-is-known-to-server
 
 ***
+
+## HTTP client-side creation of ETag
+t
 ## HTTP PUT without data transfer, since hash of data is known to server
 
 The tool rsync can sync directories quickly, since only changed files get transfered. It would be great to have rsync like protocol which works over http.
